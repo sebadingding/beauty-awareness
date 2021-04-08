@@ -162,7 +162,7 @@
     color: transparent;
     border: 0;
     outline: none;
-        background: red;
+        background: d2d2d2;
 
 }
 .slick-dots li button:hover,
@@ -193,7 +193,7 @@
 
     opacity: 0;
     color: black;
-    background: blue;
+    background: f78166;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
