@@ -122,7 +122,7 @@
 .slick-dots
 {
     position: absolute;
-    bottom: -25px;
+    top: 30px;
 
     display: block;
 
@@ -144,6 +144,8 @@
     height: 20px;
     margin: 0 5px;
     padding: 0;
+    background: orange;
+
 
     cursor: pointer;
 }
@@ -163,7 +165,7 @@
     color: transparent;
     border: 0;
     outline: none;
-    background: transparent;
+    background: red;
 }
 .slick-dots li button:hover,
 .slick-dots li button:focus
@@ -193,6 +195,7 @@
 
     opacity: .25;
     color: black;
+    background: grey;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
