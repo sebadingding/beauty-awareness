@@ -188,6 +188,7 @@
     width: 20px;
     height: 20px;
     background: d2d2d2;
+    opacity: 0.5;
     
     content: '•';
     text-align: center;
