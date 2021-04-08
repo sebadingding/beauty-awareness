@@ -140,8 +140,8 @@
 
     display: inline-block;
 
-    width: 20px;
-    height: 20px;
+    width: 100px;
+    height: 4px;
     margin: 0 5px;
     padding: 0;
 
@@ -154,8 +154,8 @@
 
     display: block;
 
-    width: 20px;
-    height: 20px;
+    width: 100px;
+    height: 4px;
     padding: 5px;
 
     cursor: pointer;
@@ -186,8 +186,8 @@
     top: 0;
     left: 0;
 
-    width: 20px;
-    height: 20px;
+    width: 100px;
+    height: 4px;
 
     content: '•';
     text-align: center;
