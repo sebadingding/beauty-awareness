@@ -187,7 +187,7 @@
 
     width: 20px;
     height: 20px;
-    background: red;
+    background: yellow;
     
     content: '•';
     text-align: center;
@@ -199,6 +199,5 @@
 }
 .slick-dots li.slick-active button:before
 {
-    opacity: .75;
     color: black;
 }
