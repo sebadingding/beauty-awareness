@@ -116,13 +116,13 @@
 /* Dots */
 .slick-dotted.slick-slider
 {
-    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 .slick-dots
 {
     position: absolute;
-    top: 30px;
+    bottom: -25px;
 
     display: block;
 
@@ -144,8 +144,6 @@
     height: 20px;
     margin: 0 5px;
     padding: 0;
-    background: orange;
-
 
     cursor: pointer;
 }
@@ -165,7 +163,7 @@
     color: transparent;
     border: 0;
     outline: none;
-    background: red;
+    background: transparent;
 }
 .slick-dots li button:hover,
 .slick-dots li button:focus
@@ -195,7 +193,6 @@
 
     opacity: .25;
     color: black;
-    background: grey;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
