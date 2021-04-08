@@ -139,11 +139,11 @@
 
     display: inline-block;
 
-    width: 20px;
-    height: 20px;
+    width: 4px;
+    height: 100px;
     margin: 0 5px;
     padding: 0;
-    background:red;
+    background:#d2d2d2;
 
     cursor: pointer;
 }
@@ -185,21 +185,19 @@
     top: 0;
     left: 0;
 
-    width: 20px;
-    height: 20px;
+    width: 4px;
+    height: 100px;
 
     content: '•';
     text-align: center;
-
-    opacity: .25;
     color: black;
-    background: blue;
+    background: #eeaa9a;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 .slick-dots li.slick-active button:before
 {
-    opacity: .75;
+    opacity:0;
     color: black;
 }
