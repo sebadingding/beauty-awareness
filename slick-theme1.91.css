@@ -193,8 +193,8 @@
     content: '•';
     text-align: center;
 
+    opacity: .25;
     color: black;
-    background: #d2d2d2;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
