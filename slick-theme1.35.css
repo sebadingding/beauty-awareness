@@ -141,7 +141,7 @@
     display: inline-block;
 
     width: 60px;
-    height: 4px;
+    height: 2px;
     margin: 0 5px;
     padding: 0;
 
@@ -155,14 +155,14 @@
     display: block;
 
     width: 60px;
-    height: 4px;
+    height: 2px;
 
     cursor: pointer;
 
     color: transparent;
     border: 0;
     outline: none;
-        background: #d2d2d2;
+        background: #efefef;
 
 }
 .slick-dots li button:hover,
@@ -186,14 +186,14 @@
     left: 0;
 
     width: 60px;
-    height: 4px;
+    height: 2px;
 
     content: '';
     text-align: center;
 
     opacity: 0;
     color: black;
-    background: #FFAD9B;
+    background: #4d4f59;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
